@@ -6,8 +6,12 @@
 >[!Info]
 >[Just a moment... (aescripts.com)](https://aescripts.com/autosway/)
 >[AE脚本-风吹自由摇曳摆动MG动画 AutoSway v1.86 + 使用教程-LookAE.com](https://www.lookae.com/autosway-186/)
-```toc
-```
+- [[05 - Adobe/脚本目录/Auto Sway#AutoSway\|AutoSway]]
+	- [[05 - Adobe/脚本目录/Auto Sway#AutoSway\|木偶图钉模式（PuppetPinTool Mode）]]
+	- [[05 - Adobe/脚本目录/Auto Sway#AutoSway\|图层模式（Layer Mode）]]
+	- [[05 - Adobe/脚本目录/Auto Sway#AutoSway\|控制器参数（AutoSway Pin）]]
+	- [[05 - Adobe/脚本目录/Auto Sway#AutoSway\|其他功能]]
+
 
 ## AutoSway
 ---
