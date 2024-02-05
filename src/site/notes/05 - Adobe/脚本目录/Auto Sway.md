@@ -4,15 +4,14 @@
 
 
 >[!Info]
->[[AutoSway参考.jpg]]
+> ![AutoSway参考.jpg](/img/user/05%20-%20Adobe/%E8%84%9A%E6%9C%AC%E7%9B%AE%E5%BD%95/attachments/AutoSway%E5%8F%82%E8%80%83.jpg)
 >[Just a moment... (aescripts.com)](https://aescripts.com/autosway/)
 >[AE脚本-风吹自由摇曳摆动MG动画 AutoSway v1.86 + 使用教程-LookAE.com](https://www.lookae.com/autosway-186/)
 ```toc
 ```
 
----
-
 ## AutoSway
+---
 木偶摇摆工具，基于图层或木偶图钉来模拟风吹摇曳的运动
 
 ### 木偶图钉模式（PuppetPinTool Mode）
